@@ -1,0 +1,16 @@
+# Ignore Python caches
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore conda environment folders
+env/
+*.env
+
+# Ignore system files
+.DS_Store
+
+# Ignore data folder (optional, if you don’t want to track data)
+data/
