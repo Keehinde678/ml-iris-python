@@ -2,13 +2,18 @@
 Welcome to the ML Iris Classification project! This project applies various machine learning algorithms to the classic Iris dataset using Python. It serves as an introduction to supervised learning, model evaluation, and predictive analysis using the Scikit-learn framework.
 
 # Repository Structure
-bash
+
 ml-iris-python/
+
 ├── data/               # Contains the Iris dataset (if manually included)
+
 ├── notebooks/          # Jupyter Notebooks with code and analysis
 │   └── iris-classifier.ipynb
+
 ├── README.md           # Project documentation (you're reading it!)
+
 └── requirements.txt    # Python dependencies (optional but recommended)
+
 # Project Overview
 The Iris dataset consists of 150 samples of iris flowers, classified into 3 species:
 
